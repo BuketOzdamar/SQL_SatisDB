@@ -1,4 +1,4 @@
-Main page: ![image](https://github.com/user-attachments/assets/d400917b-c8ca-4117-8fd7-8d446cdb67ac)
+Main page: <img src="https://github.com/user-attachments/assets/d400917b-c8ca-4117-8fd7-8d446cdb67ac" width="500" height="300" />
 
 customer information page: ![image](https://github.com/user-attachments/assets/6b242103-5689-489f-bc1f-0685ac92827d)
 
